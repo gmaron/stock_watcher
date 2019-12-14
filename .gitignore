@@ -1,0 +1,6 @@
+# Python files
+*.pyc
+.dmypy.json
+env/
+.idea/
+*.ini
